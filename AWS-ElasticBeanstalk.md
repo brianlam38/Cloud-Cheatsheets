@@ -14,3 +14,4 @@
 4. Create an EB environment within your app and deploy your app to it:  
 `eb create [ environment name ]`  
 
+See more at https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html
