@@ -11,6 +11,6 @@
 3. Configure a default keypair so you can connect to the EC2 instance via. SSH:  
 `eb init`
 
-4. Create an EB environment and deploy your application to it:  
+4. Create an EB environment within your app and deploy your app to it:  
 `eb create [ environment name ]`  
 
