@@ -1,3 +1,4 @@
 Elastic Compute Cloud
 
-### Setting up an EC2 instance
+### EC2 Best Practices  
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-best-practices.html
